@@ -1,1 +1,2 @@
 # AWS-S3-Project-Report
+This project introduces students to Amazon Web Services (AWS) by guiding them through the deployment of a static website using AWS S3 (Simple Storage Service). Students will gain hands-on experience with S3, learning to configure it for static website hosting, manage files, and enable features like logging and versioning. The project also explores advanced AWS options such as CORS and CloudFront, enhancing practical skills in cloud computing and resource management.
